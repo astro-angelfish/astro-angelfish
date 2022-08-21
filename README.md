@@ -1,16 +1,13 @@
-### Hi there 👋
+# Astro angelfish
 
-<!--
-**astro-angelfish/astro-angelfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An angelfish wants to travel in the universe
 
-Here are some ideas to get you started:
+Hates bugs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This fish has some experience in Java, Assembly, C. Bad at designing algorithms.
+
+## Contact me:
+[astroangelfish@orangemc.moe](mailto:astroangelfish@orangemc.moe)
+
+## Feed me:
+[Afdian (Chinese)](https://afdian.net/@astro-angelfish)
