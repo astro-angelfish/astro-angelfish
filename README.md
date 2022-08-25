@@ -1,6 +1,7 @@
 # Astro angelfish
 
-An angelfish wants to travel in the universe, which hates bugs.
+An angelfish wants to travel in the universe, which hates bugs but lazy.
+The fish is preparing for the final examination of China, and has little experience on CTF, Java & C development.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astro-angelfish&layout=compact&theme=tokyonight" align="left" />
 
