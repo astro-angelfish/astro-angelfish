@@ -21,4 +21,4 @@ Blessed are those who die in the Lord! The Holy Spirit said: "Yes, they have res
 ## Feed me:
 [Afdian (Chinese)](https://afdian.net/@astro-angelfish)
 
-Mental support & protection by [X Zero Project](https://github.com/x-zero0w0).
+Moral support & protection by [X Zero Project](https://github.com/x-zero0w0).
