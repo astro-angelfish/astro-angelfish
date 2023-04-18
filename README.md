@@ -1,5 +1,7 @@
 # Astro angelfish
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&pause=1000&multiline=true&repeat=false&width=430&height=63&lines=We+think+too+much;but+feel+too+little)](https://git.io/typing-svg)
+
 An angelfish wants to travel in the universe, which hates bugs but lazy.
 The fish is preparing for the National College Entrance Examination of China, and has a little experience on CTF, Java & C development.
 
