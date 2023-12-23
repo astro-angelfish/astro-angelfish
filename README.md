@@ -5,9 +5,15 @@
 An angelfish wants to travel in the universe, which hates bugs but lazy.
 The fish has a little experience on CTF, Java & C development.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astro-angelfish&layout=compact&theme=tokyonight" align="left"/>
-
-<div align="right">
+<table>
+<tbody>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astro-angelfish&layout=compact&theme=tokyonight"/>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=astro_angelfish"/>
+</td>
+<td>
 <i>
 WHAT DO YOU KNOW<br>
 WHAT DO YOU PLAY<br>
@@ -17,13 +23,12 @@ Blessed are those who die in the Lord!
 <br>The Holy Spirit said: "Yes, they have rested their labors,
 <br>and the results of their work have followed them."
 </i>
-</div>
-<br>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Contact me:
 <astroangelfish@orangemc.moe>
-
-## Feed me:
-[Afdian (Chinese)](https://afdian.net/@astro-angelfish)
 
 Moral support & protection by [X Zero Project](https://github.com/x-zero0w0).
