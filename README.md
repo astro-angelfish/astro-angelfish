@@ -30,5 +30,3 @@ Blessed are those who die in the Lord!
 
 ## Contact me:
 <astroangelfish@orangemc.moe>
-
-Moral support & protection by [X Zero Project](https://github.com/x-zero0w0).
